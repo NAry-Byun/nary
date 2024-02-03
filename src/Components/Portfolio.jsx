@@ -45,7 +45,7 @@ const projectList = [
     title: "My Likedin",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "www.linkedin.com/in/nary-byun-80408992",
+    url: "https://linkedin.com/in/nary-byun-80408992",
   },
   {
     title: "Train_Schedule_APP",
