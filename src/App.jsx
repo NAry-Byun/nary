@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Nary Byun",
-  title: "Soft Engineer",
+  title: "Software Engineer",
   email: "byunnary@gmail.com",
   gitHub: "https://github.com/NAry-Byun",
   instagram: "MLSA-Melbourne",
