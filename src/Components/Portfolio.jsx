@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/14.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Python crawling with library",
+    description: "Python+Selenium library for crawling",
+    url: "https://github.com/NAry-Byun/PythonCrawling",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Azure Static Web Apps documentation",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Azure Static Web Apps allows you to build modern web applications that automatically publish to the web as your code changes.",
+    url: "https://learn.microsoft.com/en-us/azure/static-web-apps/",
   },
   {
-    title: "My Resume Site",
+    title: "My Likedin",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "www.linkedin.com/in/nary-byun-80408992",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Train_Schedule_APP",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "As student commute to the city weekly for school, we constantly find ourselves checking the train schedule. We envision the convenience of having a personalised train schedule widget on our mobile screen, making the process enjoyable and efficient.",
+    url: "https://github.com/NAry-Byun/TrainScheduleAPP",
   },
 ];
 
